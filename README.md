@@ -1,15 +1,17 @@
 <h1 align="center">Yoo 👋, I'm Sean Mentele!</h1>
-<h3 align="center">A Full-Stack Engineer from Kirkland, WA</h3>
 
-- 🔭 I’m currently working on **Avocet!**
+Im a full stack software engineer based in Kirkland, WA. I have experience in JavaScript, TypeScript, Postgres, React and other technologies. I enjoy the satisifaction of breaking down problems and solving them, strategy, and competetion.
+
+When im not working, Im usually gaming with my brothers, going for walks, or watching/reading epic fantasy like Lord of the Rings!
+
+Recently I was apart of the creation of [Avocet](https://avocet-experimentation.github.io), an open-source feature flagging and software experimentation platform, capable of integrating with any telemetry infrastructure. 
+
+Find out more about Avocet [here!](https://avocet-experimentation.github.io)
 
 
 <h3 align="left">Reach out and connect!</h3>
-<ui>
-  <li>
-    LinkedIn <a href="https://www.linkedin.com/in/sean-mentele-58481417a/">
-  </li>
-</ui>
+* <a target="_blank" href="https://www.linkedin.com/in/sean-mentele-58481417a/">LinkedIn</a>
+
 
 <p align="left">
 </p>
