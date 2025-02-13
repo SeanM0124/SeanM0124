@@ -3,9 +3,14 @@
 
 - 🔭 I’m currently working on **Avocet!**
 
-- 📫 How to reach me **Sean.a.mentele@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach out and connect!</h3>
+<ui>
+  <li>
+    LinkedIn <a href="https://www.linkedin.com/in/sean-mentele-58481417a/">
+  </li>
+</ui>
+
 <p align="left">
 </p>
 
