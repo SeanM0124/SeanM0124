@@ -11,6 +11,7 @@ Recently I was apart of the creation of Avocet, an open-source feature flagging 
 
 * <a target="_blank" href="https://www.linkedin.com/in/sean-mentele-58481417a/">LinkedIn</a>
 * <a target="_blank" href="https://github.com/user-attachments/files/18790807/Sean-Mentele-FlowCV-Resume-20250213.pdf">Check out my Resume! (download)</a>
+* [Email](sean.a.mentele@gmail.com)
 
 
 <p align="left">
