@@ -4,9 +4,7 @@ Im a full stack software engineer based in Kirkland, WA. I have experience in Ja
 
 When im not working, Im usually gaming with my brothers, going for walks, or watching/reading epic fantasy like Lord of the Rings!
 
-Recently I was apart of the creation of [Avocet](https://avocet-experimentation.github.io), an open-source feature flagging and software experimentation platform, capable of integrating with any telemetry infrastructure. 
-
-Find out more about Avocet [here!](https://avocet-experimentation.github.io)
+Recently I was apart of the creation of Avocet, an open-source feature flagging and software experimentation platform, capable of integrating with any telemetry infrastructure. Find out more about Avocet [here!](https://avocet-experimentation.github.io)
 
 
 <h3 align="left">Reach out and connect!</h3>
