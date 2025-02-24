@@ -10,7 +10,7 @@ Recently I was apart of the creation of Avocet, an open-source feature flagging 
 <h3 align="left">Reach out and connect!</h3>
 
 * <a target="_blank" href="https://www.linkedin.com/in/sean-mentele-58481417a/">LinkedIn</a>
-* <a target="_blank" href="https://flowcv.com/resume/01jti3uuem">Check out my Resume! (download)</a>
+* <a target="_blank" href="https://flowcv.com/resume/01jti3uuem">Check out my Resume!</a>
 * [Email](sean.a.mentele@gmail.com)
 
 
